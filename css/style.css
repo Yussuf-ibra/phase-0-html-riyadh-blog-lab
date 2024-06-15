@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+background-color: aquamarine;
+background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
@@ -21,21 +21,22 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background:wheat;
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: maroon;
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 4.0em;
   margin-top: .5em;
 }
 
